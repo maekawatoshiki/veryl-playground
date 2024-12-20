@@ -1,0 +1,1 @@
+{"version":3,"file":"hello.sv.map","sources":["hello.veryl"],"names":["","module","ModuleA",";","initial","begin","$display","(","\"hello\"",")","end","endmodule"],"mappings":"AAAAA,AAAAC,aAAOC,OAAQC;IACXC,QAAQC;QACJC,QAAQC,CAACC,OAAOC,CAACN;IACrBO;AACJC"}
